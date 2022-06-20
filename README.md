@@ -6,11 +6,6 @@ For more information, [visit the home page for HoRNDIS on my site](http://www.jo
 
 ## Installation
 
-### From Source/Binary
-
-* Get the installation package ([Download](http://www.joshuawise.com/horndis) or [Build](#building-the-source) the installation package from source yourself)
-* Run the installation package
-
 ### For M1
 
 [HoRNDIS-M1.zip](https://github.com/nEdAy/HoRNDIS-for-M1/releases/download/rel9.2/HoRNDIS-M1.zip)
