@@ -13,12 +13,14 @@ For more information, [visit the home page for HoRNDIS on my site](http://www.jo
 
 ### For M1
 
-Disable SIP for kernel extensions
-1.1. Restart your Mac in recovery mode by powering it off then restarting with a long press on the power button
-1.2. Execute csrutil disable then csrutil enable --without kext
-1.3. Restart mac to normal mode
-Run the .pkg that you'll find in the .zip I uploaded.
-Try tethering data with a nearby Android phone -- currently using my data plan ;)
+[HoRNDIS-M1.zip](https://github.com/nEdAy/HoRNDIS-for-M1/releases/download/rel9.2/HoRNDIS-M1.zip)
+
+* Disable SIP for kernel extensions
+  * Restart your Mac in recovery mode by powering it off then restarting with a long press on the power button
+  * Execute csrutil disable then csrutil enable --without kext
+  * Restart mac to normal mode
+* Run the .pkg that you'll find in the .zip I uploaded.
+* Try tethering data with a nearby Android phone -- currently using my data plan ;)
 
 ## Configuration
 
