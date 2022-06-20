@@ -11,12 +11,14 @@ For more information, [visit the home page for HoRNDIS on my site](http://www.jo
 * Get the installation package ([Download](http://www.joshuawise.com/horndis) or [Build](#building-the-source) the installation package from source yourself)
 * Run the installation package
 
-### From Homebrew
+### For M1
 
-```sh
-brew cask install horndis
-sudo kextload /Library/Extensions/HoRNDIS.kext
-```
+Disable SIP for kernel extensions
+1.1. Restart your Mac in recovery mode by powering it off then restarting with a long press on the power button
+1.2. Execute csrutil disable then csrutil enable --without kext
+1.3. Restart mac to normal mode
+Run the .pkg that you'll find in the .zip I uploaded.
+Try tethering data with a nearby Android phone -- currently using my data plan ;)
 
 ## Configuration
 
