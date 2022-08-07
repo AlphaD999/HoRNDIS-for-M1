@@ -8,7 +8,7 @@ For more information, [visit the home page for HoRNDIS on my site](http://www.jo
 
 ### For M1
 
-[HoRNDIS-M1.zip](https://github.com/nEdAy/HoRNDIS-for-M1/releases/download/rel9.2/HoRNDIS-M1.zip)
+[HoRNDIS-M1.zip](https://github.com/AlphaD999/HoRNDIS-for-M1/releases/download/v1.0/HoRNDIS-M1.zip)
 
 * Disable SIP for kernel extensions
   * Restart your Mac in recovery mode by powering it off then restarting with a long press on the power button
